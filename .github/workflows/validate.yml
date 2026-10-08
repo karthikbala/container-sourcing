@@ -1,0 +1,14 @@
+name: Validate container sourcing
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  offline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv sync --frozen --python 3.12
+      - run: uv run pytest -q
+      - run: uv build
+      - run: uv run container-sourcing --help

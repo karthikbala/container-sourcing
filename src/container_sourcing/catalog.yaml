@@ -1,0 +1,1707 @@
+schema_version: 1
+targets:
+- code: apmterminals-apmpier400containerterminal
+  name: APM Pier 400 Container Terminal
+  ports:
+  - USLAX
+  facilities:
+  - APM Pier 400 Container Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: apmterminals-apmterminalsmiami
+  name: APM Terminals Miami
+  ports:
+  - USMIA
+  facilities:
+  - APM Terminals Miami
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: apmterminals-apmterminalsmobile
+  name: APM Terminals Mobile
+  ports:
+  - USMOB
+  facilities:
+  - APM Terminals Mobile
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: apmterminals-apmterminalsportelizabeth
+  name: APM Terminals Port Elizabeth
+  ports:
+  - USEWR
+  - USNYC
+  - USNWK
+  facilities:
+  - APM Terminals Port Elizabeth
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: barbourscutcontainerterminal
+  name: Barbours Cut Container Terminal
+  ports:
+  - USHOU
+  facilities:
+  - Barbours Cut Container Terminal
+  - BARBOURS CUT TERMINAL
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: bayportcontainerterminal
+  name: Bayport Container Terminal
+  ports:
+  - USHOU
+  facilities:
+  - Bayport Container Terminal
+  - BAYPORT TERMINAL
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: benenutterterminal
+  name: Ben E. Nutter Terminal
+  ports:
+  - USOAK
+  facilities:
+  - Ben E. Nutter Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: containerterminalssa
+  name: Blount Island Marine Terminal
+  ports:
+  - USJAX
+  facilities:
+  - Blount Island Marine Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: centerm
+  name: Centerm
+  ports:
+  - CAVAN
+  facilities:
+  - Centerm
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: conleycontainerterminal
+  name: Conley Terminal
+  ports:
+  - USBOS
+  facilities:
+  - Conley Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: deltaport
+  name: Deltaport
+  ports:
+  - CAVAN
+  facilities:
+  - Deltaport
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: everportservicesterminal
+  name: Everport Los Angeles
+  ports:
+  - USLAX
+  facilities:
+  - Everport Los Angeles
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: fenixmarine
+  name: Fenix Marine Terminal
+  ports:
+  - USLAX
+  facilities:
+  - Fenix Marine Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: floridainternationalterminal
+  name: Florida International Terminal
+  ports:
+  - USPEF
+  facilities:
+  - Florida International Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: frasersurrey
+  name: Fraser Surrey
+  ports:
+  - CAVAN
+  facilities:
+  - Fraser Surrey
+  - FRASER SURREY DOCKS
+  - DP WORLD FRASER SURREY
+  direction: import
+  mapping_provenance: https://www.dpworld.com/en/ports-terminals/canada/fraser-surrey-docks
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: gardencityterminal
+  name: Garden City Terminal
+  ports:
+  - USSAV
+  facilities:
+  - Garden City Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: globalcontainerterminalsbayonne
+  name: GCT Bayonne
+  ports:
+  - USEWR
+  - USNYC
+  - USNWK
+  facilities:
+  - GCT Bayonne
+  - Port Liberty Bayonne
+  - Port Liberty Bayonne LLC
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: globalcontainerterminalsnewyork
+  name: GCT New York
+  ports:
+  - USNYC
+  - USNWK
+  - USEWR
+  facilities:
+  - GCT New York
+  - Port Liberty New York
+  - Port Liberty New York LLC
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: huskyterminal
+  name: Husky Tacoma
+  ports:
+  - USTIW
+  facilities:
+  - Husky Tacoma
+  - HUSKY TERMINAL
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: longbeachcontainerterminal
+  name: Long Beach Container Terminal
+  ports:
+  - USLGB
+  facilities:
+  - Long Beach Container Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: maherterminals
+  name: Maher Terminals
+  ports:
+  - USEWR
+  - USNYC
+  - USNWK
+  facilities:
+  - Maher Terminals
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: maisonneuve
+  name: Maisonneuve Terminal
+  ports:
+  - CAMTR
+  facilities:
+  - Maisonneuve Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: nashvilleavecomplex
+  name: Napoleon Avenue Terminal, Nashville Avenue Terminal
+  ports:
+  - USMSY
+  facilities:
+  - Napoleon Avenue Terminal, Nashville Avenue Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: ncspaterminal
+  name: NCSPA Terminal
+  ports:
+  - USILM
+  facilities:
+  - NCSPA Terminal
+  - PORT OF WILMINGTON
+  - WILMINGTON CONTAINER TERMINAL
+  direction: import
+  mapping_provenance: https://customeraccessportal.ncports.com/logon
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: propassva
+  name: Norfolk International Terminals
+  ports:
+  - USORF
+  facilities:
+  - Norfolk International Terminals
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: oaklandinternationalcontainerterminal
+  name: Oakland International Container Terminal
+  ports:
+  - USOAK
+  facilities:
+  - Oakland International Container Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: pacificmaritimeservicessouthterminal
+  name: Pacific Container Terminal
+  ports:
+  - USLGB
+  facilities:
+  - Pacific Container Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: packeravenuemarineterminal
+  name: Packer Avenue Marine Terminal
+  ports:
+  - USPHL
+  facilities:
+  - Packer Avenue Marine Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: piercecountryterminal
+  name: Pierce County Terminal
+  ports:
+  - USTIW
+  facilities:
+  - Pierce County Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: pomtac
+  name: POMTOC
+  ports:
+  - USMIA
+  facilities:
+  - POMTOC
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: portnewarkcontainerterminal
+  name: Port Newark Container Terminal
+  ports:
+  - USEWR
+  - USNYC
+  - USNWK
+  facilities:
+  - Port Newark Container Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: portsamerica
+  name: Port of Tampa Container Terminal
+  ports:
+  - USTPA
+  facilities:
+  - Port of Tampa Container Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: mtrtml
+  name: Racine Terminal
+  ports:
+  - CAMTR
+  facilities:
+  - Racine Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: pachesapeake
+  name: Seagirt Marine Terminal
+  ports:
+  - USBAL
+  facilities:
+  - Seagirt Marine Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: haltermcontainerterminal
+  name: South End Container Terminal
+  ports:
+  - CAHAL
+  facilities:
+  - South End Container Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: ssatlongbeachpieraterminal
+  name: SSA Terminals (SSAT) Pier A
+  ports:
+  - USLGB
+  facilities:
+  - SSA Terminals (SSAT) Pier A
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: ssaterminal18
+  name: SSA Terminals (SSAT) Terminal 18
+  ports:
+  - USSEA
+  facilities:
+  - SSA Terminals (SSAT) Terminal 18
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: t30tideworks
+  name: SSA Terminals (SSAT) Terminal 30
+  container_sourcing_enabled: false
+  validation_enabled: false
+  sourcing_disabled_reason: Former container operator lease ended in 2025; NWSA now markets non-container cargo operations.
+  sourcing_status_checked_at: '2026-10-02'
+  sourcing_status_source: https://s3.us-west-2.amazonaws.com/nwseaportalliance.com.if-us-west-2-or/2026-07/RFI-T30%20Non-Containerized%20Cargo%20Operations%202026-0709_FNLWS.pdf
+  ports:
+  - USSEA
+  facilities:
+  - SSA Terminals (SSAT) Terminal 30
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: trapacterminal-trapacjacksonville
+  name: Trapac Jacksonville
+  ports:
+  - USJAX
+  facilities:
+  - Trapac Jacksonville
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: trapacterminal-trapaclosangeles
+  name: Trapac Los Angeles
+  ports:
+  - USLAX
+  facilities:
+  - Trapac Los Angeles
+  - TRAPAC LOS ANGELES
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: trapacterminal-trapacoakland
+  name: Trapac Oakland
+  ports:
+  - USOAK
+  facilities:
+  - Trapac Oakland
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: washingtonunitedterminals
+  name: WASHINGTON UNITED
+  ports:
+  - USTIW
+  facilities:
+  - WASHINGTON UNITED
+  - WUT (WASHINGTON UNITED TERMINALS)
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+  physical_terminal: washington-united-tacoma
+- code: yangmingcontainerterminal
+  validation_enabled: false
+  validation_reason: Legacy Washington United alias routes to WBCT LA; resolve terminal identity before sourcing tests
+  name: WASHINGTON UNITED
+  ports:
+  - USTIW
+  facilities:
+  - WASHINGTON UNITED
+  - WUT (WASHINGTON UNITED TERMINALS)
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+  physical_terminal: washington-united-tacoma
+- code: yusenterminalinc
+  name: Yusen Terminal
+  ports:
+  - USLAX
+  facilities:
+  - Yusen Terminal
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+- code: totalterminalsinternational
+  name: Total Terminals - Long Beach
+  ports:
+  - USLGB
+  facilities:
+  - Total Terminals - Long Beach
+  direction: import
+  mapping_provenance: PortTrack catalogue / sourcing handoff 2026-10-01
+  mapping_status: port_reviewed
+  event_codes:
+    UNLOAD: DISC
+    DISCHARGE: DISC
+    GATE_IN: GTIN
+    GATE_OUT: GTOT
+    I: GTIN
+    UV: GTIN
+    OA: GTOT
+    VD: DEPA
+    VA: ARRI
+    X1: DELIVERY
+    RD: EMPTY_RETURN
+sources:
+- id: importkey-public-preview
+  enabled: true
+  category: public_manifest_preview
+  url: https://importkey.com/i/to-the-order-of-prime-bank-plc
+  allowed_hosts:
+  - importkey.com
+  format: html
+  rows: //ul[contains(@class,"shipmentslist")]/li[contains(@class,"dwnnor")]
+  fields:
+    container_number: ./div[4]//text()
+    movement_at: ./div[1]//text()
+    port: ./div[6]//text()
+    reference: ./div[8]//text()
+  transforms:
+    movement_at:
+      regex: (202[0-9]-[0-9]{2}-[0-9]{2})
+    port:
+      regex: (3002 Tacoma, Washington|2704 Los Angeles, California|1703 Savannah,
+        Georgia)
+      map:
+        3002 Tacoma, Washington: USTIW
+        2704 Los Angeles, California: USLAX
+        1703 Savannah, Georgia: USSAV
+    reference:
+      regex: (ONEY[A-Z0-9]+|CMDU[A-Z0-9]+)
+  reason: HTTP and shipment row boundaries verified on deployment server 2026-10-01;
+    company preview is not exhaustive port coverage
+- id: miami-exam-list
+  enabled: false
+  category: public_exam_list
+  url: https://stagedcontainers.apmterminals.com/
+  reason: Entry point observed but no ID-bearing rows or stable schema verified
+- id: houston-daily-instructions
+  enabled: false
+  context_only: true
+  url: https://info.porthouston.com/vtraffic/BAY/GATE_RESTRICTIONS.pdf
+  reason: Equipment acceptance matrix does not enumerate container IDs
+- id: one-reference-tracking
+  enabled: false
+  category: carrier_tracking_event
+  url: https://www.one-line.com/one-ecom/manage-shipment/cargo-tracking
+  reason: BOL lookup verified in browser; unattended server flow not yet verified
+- id: etslink-vessel-schedule
+  enabled: false
+  context_only: true
+  url: https://www.etslink.com/
+  reason: Vessel schedule supplies context, not a container roster
+reference_sources:
+- id: importinfo-company
+  enabled: true
+  url: https://www.importinfo.com/insight-import
+  allowed_hosts: &id001
+  - www.importinfo.com
+  format: html_pairs
+  fields: &id002
+    reference: 'Master BOL #'
+    house_reference: 'House BOL #'
+    carrier: Carrier Code
+    container_number: Container Number
+    movement_at: Actual Arrival Date
+    port: Port of Unlading
+    vessel: Vessel Name
+    voyage: 'Voyage #'
+    bill_type: Bill Type
+  transforms: &id003
+    port:
+      uppercase: true
+      regex: (LONG BEACH|LOS ANGELES|TACOMA|HOUSTON|NEW YORK|NEWARK|SEATTLE|SAVANNAH|TAMPA|PORT
+        EVERGLADES|BALTIMORE|OAKLAND|JACKSONVILLE|CHARLESTON|NORFOLK|MIAMI)
+      map:
+        LONG BEACH: USLGB
+        LOS ANGELES: USLAX
+        TACOMA: USTIW
+        HOUSTON: USHOU
+        NEW YORK: USNYC
+        NEWARK: USEWR
+        SEATTLE: USSEA
+        SAVANNAH: USSAV
+        TAMPA: USTPA
+        PORT EVERGLADES: USPEF
+        BALTIMORE: USBAL
+        OAKLAND: USOAK
+        JACKSONVILLE: USJAX
+        CHARLESTON: USCHS
+        NORFOLK: USORF
+        MIAMI: USMIA
+  exclude_bill_types: &id004
+  - Foreign Cargo Remaining On Board
+  master_carrier_prefixes: &id005
+  - ONEY
+  - MEDU
+  - OOLU
+  - CMDU
+  - HLCU
+  - MAEU
+  - COSU
+  - ZIMU
+- id: importinfo-company-directory
+  enabled: true
+  url: https://www.importinfo.com/insight-import
+  allowed_hosts: *id001
+  format: html_pairs
+  fields: *id002
+  transforms: *id003
+  exclude_bill_types: *id004
+  master_carrier_prefixes: *id005
+  discover:
+    url: https://www.importinfo.com/companies?o=max_arrival_date&d=desc
+    links: //table[.//th[contains(.,"Most Recent Record")]]//tr[td]/td[1]//a/@href
+    path_pattern: /[a-z0-9-]+
+    max_links: 10
+- id: importinfo-port-pages
+  enabled: true
+  url: https://www.importinfo.com/port
+  allowed_hosts: &id006
+  - www.importinfo.com
+  format: html_table
+  required_headers: &id007
+  - Master BOL
+  - Arrival Date
+  - US Port
+  max_queries: 8
+  port_queries:
+  - port: USTIW
+    code: '3002'
+    slug: tacoma-washington
+  - port: USLAX
+    code: '2704'
+    slug: los-angeles-california
+  - port: USHOU
+    code: '5301'
+    slug: houston-texas
+  - port: USLGB
+    code: '2709'
+    slug: long-beach-california
+  - port: USNYC
+    code: '1001'
+    slug: new-york-new-york
+  - port: USOAK
+    code: '2811'
+    slug: oakland-california
+  - port: USMOB
+    code: '1901'
+    slug: mobile-alabama
+  - port: USJAX
+    code: '1803'
+    slug: jacksonville-florida
+  - port: USSAV
+    code: '1703'
+    slug: savannah-georgia
+  - port: USBAL
+    code: '1303'
+    slug: baltimore-maryland
+  - port: USORF
+    code: '1401'
+    slug: norfolk-virginia
+  - port: USILM
+    code: '1501'
+    slug: wilmington-north-carolina
+  - port: USPHL
+    code: '1101'
+    slug: philadelphia-pennsylvania
+  - port: USMSY
+    code: '2002'
+    slug: new-orleans-louisiana
+  - port: USMIA
+    code: '5201'
+    slug: miami-florida
+  - port: USSEA
+    code: '3001'
+    slug: seattle-washington
+  - port: USBOS
+    code: '0401'
+    slug: boston-massachusetts
+  - port: USTPA
+    code: '1801'
+    slug: tampa-florida
+  - port: USPEF
+    code: '5203'
+    slug: port-everglades-florida
+  request:
+    url: https://www.importinfo.com/port/{{ port.slug }}/{{ port.code }}
+  fields: &id008
+    reference: Master BOL
+    house_reference: House BOL
+    carrier: Carrier Code
+    movement_at: Arrival Date
+    vessel: Vessel Name
+    voyage: 'Voyage #'
+    bill_type: Bill Type
+  exclude_bill_types: &id009
+  - FROB
+  - Foreign Cargo Remaining On Board
+  - Foreign Cargo Remaining On Board w/in-bond
+  master_carrier_prefixes: &id010
+  - ONEY
+  - MEDU
+  - OOLU
+  - CMDU
+  - HLCU
+  - MAEU
+  - COSU
+  - ZIMU
+  quota_group: public-port
+- id: importinfo-port-search
+  enabled: true
+  url: https://www.importinfo.com/search
+  allowed_hosts: *id006
+  format: html_table
+  required_headers: *id007
+  max_queries: 3
+  port_queries:
+  - port: USTIW
+    code: '3002'
+  - port: USLAX
+    code: '2704'
+  - port: USHOU
+    code: '5301'
+  - port: USNYC
+    code: '1001'
+  - port: USLGB
+    code: '2709'
+  request:
+    url: https://www.importinfo.com/search
+    query:
+      us_port[]: '{{ port.code }}'
+      min_arrival_date: '{{ start }}'
+      max_arrival_date: '{{ day }}'
+      o: arrival_date
+      d: desc
+      bill_type[]:
+      - '02'
+      - '03'
+      - '13'
+      - '14'
+      - '18'
+  fields: *id008
+  exclude_bill_types: *id009
+  master_carrier_prefixes: *id010
+  quota_group: search
+- id: importinfo-everlasting-recent
+  enabled: true
+  url: https://www.importinfo.com/everlasting-inc
+  allowed_hosts: *id006
+  format: html_table
+  required_headers: *id007
+  fields:
+    <<: *id008
+    port: US Port
+  transforms: *id003
+  exclude_bill_types: *id009
+  master_carrier_prefixes: *id010
+- id: importinfo-prime-cap-recent
+  enabled: true
+  url: https://www.importinfo.com/prime-cap-bd-ltd
+  allowed_hosts: *id006
+  format: html_table
+  required_headers: *id007
+  fields:
+    <<: *id008
+    port: US Port
+  transforms: *id003
+  exclude_bill_types: *id009
+  master_carrier_prefixes: *id010
+carrier_workflows:
+- id: one-reference
+  enabled: true
+  match_carriers:
+  - ONEY
+  - ONE
+  strip_prefixes:
+  - ONEY
+  allowed_hosts:
+  - ecomm.one-line.com
+  cache_seconds: 72000
+  max_pages: 3
+  request:
+    method: POST
+    url: https://ecomm.one-line.com/api/v2/edh/containers/track-and-trace/search
+    headers:
+      Origin: https://www.one-line.com
+      Referer: https://www.one-line.com/
+    json:
+      page: '{{ page }}'
+      page_length: 100
+      filters:
+        search_text: '{{ reference }}'
+        search_type: BKG_NO
+  rows: $.data[*]
+  fields:
+    container_number: $.containerNo
+    booking: $.bookingNo
+    pod: $.pod.code
+    pol: $.por.code
+    vessel: $.vesselVoyage.vesselName
+    voyage: $.vesselVoyage.inboundConsortiumVoyage
+  events:
+    request:
+      url: https://ecomm.one-line.com/api/v2/edh/containers/track-and-trace/cop-events
+      query:
+        booking_no: '{{ row.bookingNo }}'
+        container_no: '{{ row.containerNo }}'
+    rows: $.data[*]
+    fields:
+      eventCode: $.matrixId
+      eventQualifier: $.triggerType
+      eventTime: $.eventDate
+      port: $.location.code
+      terminal: $.yard.yardName
+    qualifiers:
+      ACTUAL: A
+      ESTIMATED: E
+    event_codes:
+      E040: GTIN
+      E058: LOAD
+      E061: DEPA
+      E089: ARRI
+      E090: DISC
+      E106: GTOT
+      E138: EMPTY_RETURN
+- id: msc-reference
+  enabled: true
+  match_carriers:
+  - MEDU
+  - MSCU
+  - MSC
+  allowed_hosts:
+  - www.msc.com
+  cache_seconds: 72000
+  max_pages: 1
+  max_references: 6
+  managed_fallback: scrapedo
+  verified_bot_403: true
+  request:
+    method: POST
+    url: https://www.msc.com/api/feature/tools/TrackingInfo
+    headers:
+      Origin: https://www.msc.com
+      Referer: https://www.msc.com/en/track-a-shipment
+      User-Agent: Mozilla/5.0
+    json:
+      trackingNumber: '{{ reference }}'
+      trackingMode: '0'
+  success_path: $.IsSuccess
+  success_value: true
+  rows: $.Data.BillOfLadings[*].ContainersInfo[*]
+  fields:
+    container_number: $.ContainerNumber
+    pod: $.Events[0].UnLocationCode
+  events:
+    inline: true
+    rows: $.Events[*]
+    date_format: '%d/%m/%Y'
+    fields:
+      eventCode: $.Description
+      eventQualifier: $.Description
+      eventTime: $.Date
+      port: $.UnLocationCode
+      terminal: $.EquipmentHandling.Name
+    default_qualifier: A
+    qualifiers:
+      Estimated Time of Arrival: E
+      Estimated Time of Departure: E
+    event_codes:
+      Estimated Time of Arrival: ARRI
+      Estimated Time of Departure: DEPA
+      Import Discharged from Vessel: DISC
+      Full Import Discharged: DISC
+      Full Import Positioned In: GTIN
+      Full Import Positioned Out: GTOT
+      Empty Returned: EMPTY_RETURN
+      Export received at CY: GTIN
+      Export Loaded on Vessel: LOAD
+      Full Transshipment Loaded: LOAD
+      Full Transshipment Discharged: DISC
+  browser_fallback:
+    mode: browser
+    kind: bill_of_lading
+    browser:
+      headless: false
+      native_user_agent: true
+    steps:
+    - goto: https://www.msc.com/en/track-a-shipment
+    - wait_for:
+        selector: '#onetrust-reject-all-handler'
+        timeout: 15000
+    - click: '#onetrust-reject-all-handler'
+    - fill:
+        selector: '#trackingNumber'
+        value: '{{ reference }}'
+    - capture_response:
+        url: https://www.msc.com/api/feature/tools/TrackingInfo
+        method: POST
+        post_data_contains: '{{ reference }}'
+        timeout: 20000
+        trigger:
+          click: .msc-search-autocomplete:has(#trackingNumber) .msc-search-autocomplete__search
+  reference_kinds:
+  - bill_of_lading
+- id: evergreen-reference
+  enabled: true
+  match_carriers: [EGLV]
+  strip_prefixes: [EGLV]
+  allowed_hosts: [ct.shipmentlink.com]
+  cache_seconds: 72000
+  max_pages: 1
+  max_references: 4
+  reference_kinds: [bill_of_lading]
+  prepare:
+  - request:
+      url: https://ct.shipmentlink.com/servlet/TDB1_CargoTracking.do
+      headers: {User-Agent: Mozilla/5.0}
+  request:
+    method: POST
+    url: https://ct.shipmentlink.com/servlet/TDB1_CargoTracking.do
+    headers:
+      User-Agent: Mozilla/5.0
+      Referer: https://ct.shipmentlink.com/servlet/TDB1_CargoTracking.do
+    form:
+      BL: '{{ reference }}'
+      CNTR: ''
+      bkno: ''
+      TYPE: BL
+      SEL: s_bl
+      'NO': '{{ reference }}'
+  format: html
+  success_xpath: //form[@name='frmCntrMove']/input[@name='bl_no']
+  reference_path: //form[@name='frmCntrMove']/input[@name='bl_no']/@value
+  rows: //tr[td/a[starts-with(@href,"javascript:frmCntrMoveDetail(")]]
+  fields:
+    container_number: ./td[1]/a/text()
+    booking: string(//form[@name='frmCntrMove']/input[@name='bl_no']/@value)
+    pod: string(//form[@name='frmCntrMove']/input[@name='pod']/@value)
+    pol: string(//form[@name='frmCntrMove']/input[@name='pol']/@value)
+    onboard: string(//form[@name='frmCntrMove']/input[@name='onboard_date']/@value)
+    pod_country: string(//form[@name='frmCntrMove']/input[@name='podctry']/@value)
+  events:
+    request:
+      method: POST
+      url: https://ct.shipmentlink.com/servlet/TDB1_CargoTracking.do
+      headers:
+        Referer: https://ct.shipmentlink.com/servlet/TDB1_CargoTracking.do
+      form:
+        TYPE: CntrMove
+        bl_no: '{{ fields.booking }}'
+        cntr_no: '{{ fields.container_number }}'
+        onboard_date: '{{ fields.onboard }}'
+        pol: '{{ fields.pol }}'
+        pod: '{{ fields.pod }}'
+        podctry: '{{ fields.pod_country }}'
+    format: html
+    success_xpath: //table[tr/th[normalize-space(.)='Container Moves']]
+    rows: //table[tr/th[normalize-space(.)='Container Moves']]/tr[td[1][not(@colspan)]]
+    fields:
+      eventCode: ./td[2]/text()
+      eventQualifier: ./td[2]/text()
+      eventTime: ./td[1]/text()
+      port: ./td[3]/text()
+    date_format: '%b-%d-%Y'
+    qualifiers:
+      Received (FCL): A
+      Loaded (FCL) on vessel: A
+      Discharged (FCL) from vessel: A
+      Discharged (FCL): A
+      Delivered (FCL): A
+      Pick-up by merchant haulage: A
+      Empty container returned: A
+      Empty return: A
+    event_codes:
+      Received (FCL): GTIN
+      Loaded (FCL) on vessel: LOAD
+      Discharged (FCL) from vessel: DISC
+      Discharged (FCL): DISC
+      Delivered (FCL): GTOT
+      Pick-up by merchant haulage: GTOT
+      Empty container returned: EMPTY_RETURN
+      Empty return: EMPTY_RETURN
+    port_names:
+      SHANGHAI (CN): CNSHG
+      NINGBO, CHINA (CN): CNNBO
+      NEW YORK, NY (US): USNYC
+      LOS ANGELES, CA (US): USLAX
+      LONG BEACH, CA (US): USLGB
+      OAKLAND, CA (US): USOAK
+      TACOMA, WA (US): USTIW
+      SEATTLE, WA (US): USSEA
+      SAVANNAH, GA (US): USSAV
+      NORFOLK, VA (US): USORF
+      HOUSTON, TX (US): USHOU
+      BALTIMORE, MD (US): USBAL
+      CHARLESTON, SC (US): USCHS
+- id: cosco-reference
+  enabled: true
+  match_carriers: [COSU, COSCO]
+  reference_echo_prefixes: [COSU]
+  allowed_hosts: [elines.coscoshipping.com]
+  cache_seconds: 72000
+  max_pages: 1
+  max_references: 8
+  reference_kinds: [bill_of_lading]
+  lookup_kinds: {bill_of_lading: blNumber, booking: bookingNumber}
+  prepare:
+  - request:
+      method: POST
+      url: https://elines.coscoshipping.com/scct/scct_customer_ex/public/cargoTracking/detail
+      headers:
+        Referer: https://elines.coscoshipping.com/scct/public/ct/base?lang=en
+        Origin: https://elines.coscoshipping.com
+      json:
+        businessNumber: '{{ reference }}'
+        businessNumberType: '{{ lookup_kind }}'
+        notFilterResult: false
+    # Public serialization mask shipped in COSCO's anonymous frontend, not an access credential.
+    response_decode: &cosco_codec {type: base64_xor, mask: 'b3Ay6#9f1a@%&2^6'}
+    success_path: $.success
+    success_value: true
+    not_found: {path: $.result.cargoTrackingSummary, value: null}
+    reference_path: $.result.cargoTrackingSummary.blNumber
+    captures:
+      pod_city: $.result.cargoTrackingFullChain[?(@.locationType=='LPOD')].city
+  request:
+    method: POST
+    url: https://elines.coscoshipping.com/scct/scct_customer_ex/public/cargoTracking/transportDetail
+    headers:
+      Referer: https://elines.coscoshipping.com/scct/public/ct/base?lang=en
+      Origin: https://elines.coscoshipping.com
+    json:
+      businessNumber: '{{ reference }}'
+      businessNumberType: '{{ lookup_kind }}'
+      notFilterResult: false
+      eventStage: OCEAN
+  response_decode: *cosco_codec
+  success_path: $.success
+  success_value: true
+  rows: $.result[*]
+  fields:
+    container_number: $.containerNumber
+    pod: {template: '{{ pod_city }}'}
+  transforms:
+    pod:
+      map:
+        New York: USNYC
+        Long Beach: USLGB
+        Los Angeles: USLAX
+        Oakland: USOAK
+        Seattle: USSEA
+        Tacoma: USTIW
+        Savannah: USSAV
+        Houston: USHOU
+        Norfolk: USORF
+        Baltimore: USBAL
+        Charleston: USCHS
+        Vancouver: CAVAN
+        Prince Rupert: CAPRR
+        Montreal: CAMTR
+        Halifax: CAHAL
+  events:
+    inline: true
+    rows: $
+    fields:
+      eventCode: $.latestEvent
+      eventQualifier: $.latestEvent
+      eventTime: $.latestEventTime
+      port: {template: '{{ fields.pod }}'}
+      terminal: $.latestEventLocation
+    include_codes: [DISC]
+    event_codes:
+      Discharged at Last POD: DISC
+    qualifiers:
+      Discharged at Last POD: A
+- id: zim-reference
+  enabled: true
+  match_carriers: [ZIMU, ZIM]
+  allowed_hosts: [www.zim.com, apigw.zim.com]
+  cache_seconds: 72000
+  max_pages: 1
+  max_references: 4
+  reference_kinds: [bill_of_lading]
+  verified_bot_403: true
+  managed_fallback: scrapedo
+  prepare:
+  - request:
+      url: https://www.zim.com/tools/track-a-shipment
+    format: html
+    captures:
+      anonymous_key:
+        path: //zim-navbar-v1/@apim-products
+        json: "$['digital-website'].subscriptionKey"
+  request:
+    url: https://apigw.zim.com/digital/TrackShipment/v2/complete-result
+    headers:
+      Origin: https://www.zim.com
+      Referer: https://www.zim.com/
+    query:
+      reference: '{{ reference }}'
+      subscription-key: '{{ anonymous_key }}'
+  success_path: $.isSuccess
+  success_value: true
+  groups: $.consgListItem[*]
+  group_check:
+    reference_path: $.referenceNo
+  group_fields:
+    booking: $.referenceNo
+    pod: $.blRouteLeg.vpBrl[?(@.portToType=='POD')].portCodeTo
+    terminal: $.blRouteLeg.vpBrl[?(@.portToType=='POD')].depotNameTo
+    vessel_code: $.blRouteLeg.vpBrl[?(@.portToType=='POD')].vessel
+    voyage: $.blRouteLeg.vpBrl[?(@.portToType=='POD')].voyage
+  rows: $.consDetails.consContainers.consContainersItem[*]
+  fields:
+    container_number: {template: '{{ row.unitPrefix }}{{ row.unitNo | trim }}'}
+    booking: {template: '{{ group.booking }}'}
+    pod: {template: '{{ group.pod }}'}
+  transforms:
+    pod:
+      # The carrier's marine POD route uses its Houston city code.
+      map: {USIAH: USHOU}
+  events:
+    inline: true
+    rows: $.unitActivities.unitActivitiesItem[*]
+    fields:
+      eventCode: $.activityCode
+      eventQualifier: $.activityCode
+      eventTime: $.activityDateTz
+      port: $.placeFrom
+      terminal:
+        # Attribute only a matching marine leg. An empty return can be at a different depot.
+        template: "{{ group.terminal if row.activityCode in ['DISF','OICF','CNT_VESSEL_ARRIVAL'] and row.placeFrom == group.pod and row.vessel == group.vessel_code and row.voyage == group.voyage else '' }}"
+    include_codes: [GTIN, LOAD, DISC, GTOT, EMPTY_RETURN, ARRI, DEPA]
+    qualifiers:
+      IEXF: A
+      LODF: A
+      DISF: A
+      OICF: A
+      INME: A
+      CNT_VESSEL_ARRIVAL: A
+      CNT_VESSEL_DEPARTURE: A
+    event_codes:
+      IEXF: GTIN
+      LODF: LOAD
+      DISF: DISC
+      OICF: GTOT
+      INME: EMPTY_RETURN
+      CNT_VESSEL_ARRIVAL: ARRI
+      CNT_VESSEL_DEPARTURE: DEPA
+    port_names: {USIAH: USHOU}
+# Keep failed access probes visible without billing every queued bill daily.
+# Enable only after an exact requested reference returns observed equipment.
+- id: cma-reference
+  enabled: false
+  match_carriers: [CMDU, CMA, CMACGM]
+  allowed_hosts: [www.cma-cgm.com]
+  reference_kinds: [bill_of_lading, booking]
+  strip_prefixes: [CMDU]
+  readiness_reason: public_lookup_reached_but_tested_references_not_found
+  last_access_probe: '2026-10-01'
+  source_url: https://www.cma-cgm.com/ebusiness/tracking
+- id: hapag-reference
+  enabled: false
+  match_carriers: [HLCU, HAPAGLLOYD]
+  allowed_hosts: [www.hapag-lloyd.com, tracking.api.hlag.cloud]
+  reference_kinds: [bill_of_lading, booking]
+  readiness_reason: native_challenge_managed_api_401
+  last_access_probe: '2026-10-01'
+  source_url: https://www.hapag-lloyd.com/solutions/tracking/
+- id: oocl-reference
+  enabled: false
+  match_carriers: [OOLU, OOCL]
+  allowed_hosts: [www.oocl.com]
+  reference_kinds: [bill_of_lading, booking]
+  strip_prefixes: [OOLU]
+  readiness_reason: public_tracking_requires_cargosmart_captcha
+  last_access_probe: '2026-10-01'
+  source_url: https://www.oocl.com/eng/Pages/default.aspx
+- id: maersk-reference
+  enabled: false
+  match_carriers: [MAEU, MAERSK]
+  allowed_hosts: [www.maersk.com, api.maersk.com]
+  reference_kinds: [bill_of_lading, booking]
+  strip_prefixes: [MAEU]
+  readiness_reason: public_page_reached_native_api_403_managed_api_502
+  last_access_probe: '2026-10-01'
+  source_url: https://www.maersk.com/tracking/
+- id: wanhai-reference
+  enabled: false
+  match_carriers: [WHLC, WANHAI]
+  allowed_hosts: [www.wanhai.com]
+  reference_kinds: [bill_of_lading, booking]
+  readiness_reason: native_and_managed_public_tracking_access_failed
+  last_access_probe: '2026-10-01'
+  source_url: https://www.wanhai.com/
+- id: hmm-reference
+  enabled: false
+  match_carriers: [HDMU, HMM]
+  allowed_hosts: [www.hmm21.com]
+  reference_kinds: [bill_of_lading, booking]
+  strip_prefixes: [HDMU]
+  readiness_reason: public_form_reached_search_blocked_by_source_firewall
+  last_access_probe: '2026-10-01'
+  source_url: https://www.hmm21.com/e-service/general/trackNTrace/TrackNTrace.do
+reference_seeds:
+- carrier: ONEY
+  reference: ONEYSH6ACCC38900
+  port: USTIW
+  retrieved_at: '2026-10-01T08:30:00Z'
+  source_url: https://www.importinfo.com/search?us_port%5B%5D=3002
+- carrier: ONEY
+  reference: ONEYDACG21960527
+  port: USLAX
+  retrieved_at: '2026-10-01T07:00:00Z'
+  source_url: https://importkey.com/i/to-the-order-of-prime-bank-plc
+- carrier: ONEY
+  reference: ONEYDACG19684806
+  port: USTIW
+  retrieved_at: '2026-10-01T04:20:00Z'
+  source_url: https://importkey.com/i/to-the-order-of-prime-bank-plc
+- carrier: MEDU
+  reference: MEDUKU590569
+  port: USHOU
+  retrieved_at: '2026-10-01T08:30:00Z'
+  source_url: https://www.importinfo.com/search?us_port%5B%5D=5301
+pilot_terminals: []
+bootstrap:
+  enabled: true
+  history_days: 365
+  backfill_days: 90
+  samples_per_terminal: 5
